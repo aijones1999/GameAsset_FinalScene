@@ -39,7 +39,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _Concrete:
-        m_Texture: {fileID: 2800000, guid: 20374cb1bf397094884352d939879fcb, type: 3}
+        m_Texture: {fileID: 2800000, guid: 3001b3cc93bc52b4798b878919bd255b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Metalic:
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalFromTexture_bfa3b777d45741a887292433d8604aa8_Texture_0_Texture2D:
@@ -68,20 +72,20 @@ Material:
     - _Cull: 2
     - _DstBlend: 0
     - _NoiseIntensity: 0.23
-    - _NormalOffset: -1
-    - _NormalStrength: -1.53
-    - _PuddleIntensity: 1.38
+    - _NormalOffset: -1.63
+    - _NormalStrength: -7.28
+    - _PuddleIntensity: 0.74
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _SrcBlend: 1
     - _Surface: 0
-    - _Wetness: 1.49
+    - _Wetness: 2.7
     - _WorkflowMode: 1
     - _ZTest: 4
     - _ZWrite: 1
     - _ZWriteControl: 0
-    - _float: 1
-    - _heightscale: 3.1
+    - _float: 0.83
+    - _heightscale: -0.43
     m_Colors: []
   m_BuildTextureStacks: []
